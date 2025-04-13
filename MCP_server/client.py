@@ -1,8 +1,9 @@
 import requests
+import os
 from typing import List, Dict
 from schema import OrderItem
 
-BASE_URL = "http://localhost:3000"
+BASE_URL = os.environ.get("BASE_URL", "http://localhost:3000")
 
 
 def load_items() -> List[Dict]:
