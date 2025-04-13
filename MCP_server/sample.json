@@ -1,0 +1,64 @@
+{
+    "items": [
+        {
+          "upc": "041190000019",
+          "name": "Bananas",
+          "description": "Fresh yellow bananas, approximately 1 lb",
+          "price": 0.59
+        },
+        {
+          "upc": "036632015465",
+          "name": "Whole Milk, 1 Gallon",
+          "description": "1 gallon of whole milk",
+          "price": 3.49
+        },
+        {
+          "upc": "0001111088678",
+          "name": "Brown Eggs, 12 ct",
+          "description": "One dozen large brown eggs",
+          "price": 2.99
+        },
+        {
+          "upc": "0000000004046",
+          "name": "Avocados",
+          "description": "Fresh Hass avocados, each",
+          "price": 1.25
+        },
+        {
+          "upc": "0000000004062",
+          "name": "Broccoli Crowns",
+          "description": "Fresh broccoli crowns, approximately 1 lb",
+          "price": 1.89
+        },
+        {
+          "upc": "0000000004011",
+          "name": "Red Delicious Apples",
+          "description": "Fresh Red Delicious apples, each",
+          "price": 0.99
+        },
+        {
+          "upc": "0000000004080",
+          "name": "Green Bell Peppers",
+          "description": "Fresh green bell peppers, each",
+          "price": 0.79
+        },
+        {
+          "upc": "0000000004065",
+          "name": "Carrots",
+          "description": "Fresh carrots, 1 lb bag",
+          "price": 1.09
+        },
+        {
+          "upc": "0000000004072",
+          "name": "Navel Oranges",
+          "description": "Fresh navel oranges, each",
+          "price": 1.29
+        },
+        {
+          "upc": "0000000004085",
+          "name": "Tomatoes",
+          "description": "Fresh tomatoes, approximately 1 lb",
+          "price": 2.49
+        }
+    ]
+}
